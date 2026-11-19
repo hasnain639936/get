@@ -1,0 +1,4 @@
+Name hut photos like this (4 per beach, .jpg):
+hawksbay-1.jpg  hawksbay-2.jpg  hawksbay-3.jpg  hawksbay-4.jpg
+turtle-1.jpg    turtle-2.jpg    turtle-3.jpg    turtle-4.jpg
+sandspit-1.jpg  sandspit-2.jpg  sandspit-3.jpg  sandspit-4.jpg
